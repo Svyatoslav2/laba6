@@ -10,6 +10,7 @@
 ![](results/initial_sentence_black.bmp)
 
 В инвертированном виде:
+
 ![](results/initial_sentence_white.bmp)
 
 ## Профиль по оси X
